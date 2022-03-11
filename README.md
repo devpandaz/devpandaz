@@ -1,21 +1,11 @@
 ### Hi there 👋
 
-<!--
-**jPRO-22/jPRO-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🙋‍♂️ I'm Jack. 
 - 😄 Pronouns: he / him / his
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpandaz&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&custom_title=My%20Github%20Stats&border_color=03fce8&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devpandaz&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&custom_title=My%20Github%20Stats&border_color=03fce8&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Pinned
+[![Home Loan Calculator](https://github-readme-stats.vercel.app/api/pin/?username=devpandaz&repo=home-loan-calculator&theme=midnight-purple&border_radius=20&border_color=fb00ff)](https://github.com/devpandaz/home-loan-calculator)
+
+[![pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=devpandaz&repo=pathfinder&theme=midnight-purple&border_radius=20&border_color=fb00ff)](https://github.com/devpandaz/home-loan-calculator)
