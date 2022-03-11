@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: There's nothing useful here, so now go and code. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jPRO-22&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&custom_title=My%20Github%20Stats&border_color=03fce8&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpandaz&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&custom_title=My%20Github%20Stats&border_color=03fce8&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
