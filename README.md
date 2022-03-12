@@ -8,4 +8,4 @@
 ### Pinned
 [![Home Loan Calculator](https://github-readme-stats.vercel.app/api/pin/?username=devpandaz&repo=home-loan-calculator&theme=midnight-purple&border_radius=20&border_color=fb00ff)](https://github.com/devpandaz/home-loan-calculator)
 
-[![pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=devpandaz&repo=pathfinder&theme=midnight-purple&border_radius=20&border_color=fb00ff)](https://github.com/devpandaz/home-loan-calculator)
+[![pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=devpandaz&repo=pathfinder&theme=midnight-purple&border_radius=20&border_color=fb00ff)](https://github.com/devpandaz/pathfinder)
